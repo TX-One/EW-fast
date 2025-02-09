@@ -14,7 +14,7 @@ It provides multiple options for collecting, filtering, and analyzing data to id
 
 ---
 
-🔹 why you need it
+🔹 Why You Need It
 
 This innovative tool simplifies the enumeration process by
  efficiently collecting URLs from various sources. It ensures
