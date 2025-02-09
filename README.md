@@ -65,6 +65,8 @@ git clone https://github.com/TX-One/EW-fast.git
 
 cd EW-fast
 
+chmod +x ewfast
+
 ./ewfast -h
 
 3️⃣ Run the Tool
