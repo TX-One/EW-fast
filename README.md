@@ -14,19 +14,37 @@ It provides multiple options for collecting, filtering, and analyzing data to id
 
 ---
 
+🔹 why you need it
+
+This innovative tool simplifies the enumeration process by
+ efficiently collecting URLs from various sources. It ensures
+ the collected URLs are live and ready for automated validation,
+ streamlining the workflow for developers and security
+ professionals.
+
+Key features:
+
+1. Multi-source URL collection
+2. Live URL verification
+3. Automated validation preparation
+
+By leveraging this tool, users can quickly gather and validate
+ URLs across different platforms, saving time and effort in
+ their enumeration tasks.
+
+ ---
+ 
 🔹 Prerequisites
 
 Before running the tool, ensure that the following dependencies are installed on your system:
 
-Amass → [Installation Link]
+→ Amass
 
-SubFinder → [Installation Link]
+→ SubFinder
 
-AssetFinder → [Installation Link]
+→ AssetFinder
 
-httpx → [Installation Link]
-
-curl (pre-installed on most systems)
+→ httpx
 
 
 You can install the missing tools using the following command:
@@ -44,12 +62,14 @@ go install -v github.com/tomnomnom/assetfinder@latest
 1️⃣ Clone the Repository
 
 git clone https://github.com/TX-One/EW-fast.git
+
 cd EW-fast
+
 ./ewfast -h
 
 3️⃣ Run the Tool
 
-./subdomain_tool -d <domain> [options]
+./subdomain_tool   -d   <domain>   [options]
 
 Example:
 
