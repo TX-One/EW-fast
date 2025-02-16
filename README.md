@@ -220,8 +220,7 @@ chmod +x subdomain_tool
 
 💡 Contributions are welcome! If you'd like to improve the tool or fix issues, submit a Pull Request or report bugs via Issues on the repository.
 
-📧 Contact: raffirm@yahoo.com
-
+📧 Contact: https://t.me/TXpOne
 
 ---
 
